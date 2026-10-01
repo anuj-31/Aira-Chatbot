@@ -492,7 +492,7 @@ git push origin feature/new-feature
 
 ## 👨‍💻 Author
 
-### Randhir Kumar
+### Anuj Kumar
 
 **B.Tech — Metallurgical & Materials Engineering**  
 **NIT Jamshedpur**
