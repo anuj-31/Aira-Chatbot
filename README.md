@@ -503,7 +503,6 @@ git push origin feature/new-feature
 - Machine Learning
 - Deep Learning
 - Generative AI
-- Computer Vision
 - Data Science
 - Data Structures & Algorithms
 
